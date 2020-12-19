@@ -38,6 +38,9 @@
   
 **Data**
 - 특수문자, 이모티콘, 개행문자 등을 제거하고 맞춤법을 올바르게 수정해 전처리된, 분석에 사용된 Law data입니다.
+
+
+
   -[링크](https://github.com/dataitgirls4/team_4/tree/main/data, "Link")
 
 ***
