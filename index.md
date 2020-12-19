@@ -27,7 +27,7 @@
 - Excel, Tableau, Python(Plotly) 사용
   - [키워드 별 빈도수](3_visualization_keyword_frequency.html)
   - [키워드 별 긍정/부정 비율](3_visualization_keyword_attitude.html)
-  - [Tableau](3_visualization_by_tableau.html) [시각화 이미지만 모아보기](https://github.com/dataitgirls4/team_4/issues/1,"Link")
+  - [Tableau](3_visualization_by_tableau.html) // [시각화 이미지만 모아보기](https://github.com/dataitgirls4/team_4/issues/1,"Link")
   - [Boxplot](3_visualization_boxplot.html)
   - [Network Map](3_visualization_network_map.html)
 
