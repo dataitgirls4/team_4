@@ -27,7 +27,7 @@
 - Excel, Tableau, Python(Plotly) 사용
   - [키워드 별 빈도수](3_visualization_keyword_frequency.html)
   - [키워드 별 긍정/부정 비율](3_visualization_keyword_attitude.html)
-  - [Tableau](3_visualization_by_tableau.html)
+  - [Tableau](3_visualization_by_tableau.html) [시각화 이미지만 모아보기](https://github.com/dataitgirls4/team_4/issues/1,"Link")
   - [Boxplot](3_visualization_boxplot.html)
   - [Network Map](3_visualization_network_map.html)
 
@@ -37,11 +37,7 @@
   - [Tensorflow](4_modeling_tensorflow_sequential.html)
   
 **Data**
-- 특수문자, 이모티콘, 개행문자 등을 제거하고 맞춤법을 올바르게 수정해 전처리된, 분석에 사용된 Law data입니다.
-
-
-
-  -[링크](https://github.com/dataitgirls4/team_4/tree/main/data, "Link")
+- 특수문자, 이모티콘, 개행문자 등을 제거하고 맞춤법을 올바르게 수정해 전처리된, 분석에 사용된 Law data입니다. [링크](https://github.com/dataitgirls4/team_4/tree/main/data, "Link")
 
 ***
 
