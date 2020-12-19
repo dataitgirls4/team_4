@@ -28,11 +28,10 @@
   (1) 도움되는 리뷰 & 도움되지 않는 리뷰 (2) 긍정 & 부정 & 중립 (3) 시설 & 위치 & 인테리어 & 친절 & 청결 & 방음
 - Excel, Tableau, Python(Plotly) 사용
   - [키워드 별 빈도수](3_visualization_keyword_frequency.html)
-  - [키워드 별 긍정/부정 비율](3_visualization_keyword_attitude.html)
-  - [Tableau](3_visualization_by_tableau.html)
+  - [키워드 별 긍정/부정 비율](3_visualization_keyword_attitude.html)   
+  - [키워드 시각화 이미지만 모아보기](3_visualization_img_only.html)
   - [Boxplot](3_visualization_boxplot.html)
   - [Network Map](3_visualization_network_map.html)
-  - [시각화 이미지만 모아보기](3_visualization_img_only.html)
 
 
 **4. Modeling**
