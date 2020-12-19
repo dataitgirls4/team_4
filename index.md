@@ -28,9 +28,10 @@
   - [키워드 별 빈도수](3_visualization_keyword_frequency.html)
   - [키워드 별 긍정/부정 비율](3_visualization_keyword_attitude.html)
   - [Tableau](3_visualization_by_tableau.html)
-  - [시각화 이미지만 모아보기](3_visualization_img_only.html)
   - [Boxplot](3_visualization_boxplot.html)
   - [Network Map](3_visualization_network_map.html)
+  - [시각화 이미지만 모아보기](3_visualization_img_only.html)
+
 
 **4. Modeling**
 - 라벨링 작업 후 분류 모델링 및 confusion matrix로 평가한 코드 
