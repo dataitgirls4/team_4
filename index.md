@@ -17,7 +17,7 @@
 - 호텔 예약 사이트 웹 스크래핑(크롤링) 코드
   - [야놀자](1_crawling_yanolja.html)
   - [아고다](1_crawling_agoda.html)
-  - [여기어떄](1_crawling_goodchoice.html)
+  - [여기어때](1_crawling_goodchoice.html)
   
 **2. Preprocessing**
 - 데이터 전처리 관련 코드
@@ -38,6 +38,7 @@
 - 라벨링 작업 후 분류 모델링 및 confusion matrix로 평가한 코드 
   - [Scikit-Learn](4_modeling_scikit-learn_logistic_regression.html)
   - [Tensorflow](4_modeling_tensorflow_sequential.html)
+  - [Tensorflow-Sentencepiece](4_modeling_tensorflow_sentencepiece.html)
   
 **Data**
 - 특수문자, 이모티콘, 개행문자 등을 제거하고 맞춤법을 올바르게 수정해 전처리된, 분석에 사용된 Law data입니다. [링크](https://github.com/dataitgirls4/team_4/tree/main/data)
